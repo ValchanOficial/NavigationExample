@@ -1,2 +1,4 @@
-# NavigationExample
-React Native Navigation: Stack, Tab and Drawer
+# Exemplo de rotas e navegação: Stack, Tab e Drawer no React Native
+
+- yarn install
+- yarn android
